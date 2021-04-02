@@ -72,4 +72,4 @@ async def on_ready():
 
 if __name__ == '__main__':
     models.initialize("profiles.sqlite")
-    client.run(TOKEN)
+    client.run(NzM5NDE2OTg4ODE1NzIwNTQw.XyaJuw.x2cj224NZSoWH3OtgMoE5rdZRwA)
